@@ -13,7 +13,7 @@ int main() {
         mbLeft -= mbSpent;
     }
 
-    cout << mbLeft;
+    cout << mbLeft << endl;
 
     return 0;
 }
