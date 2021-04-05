@@ -10,6 +10,7 @@ int main() {
 
     for (int i = 0; i < months; i++) {
         cin >> mbSpent;
+        
         mbLeft -= mbSpent;
     }
 
